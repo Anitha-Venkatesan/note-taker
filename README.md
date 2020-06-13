@@ -18,7 +18,7 @@ Steps to install the node npm packages
 Note: They already included in npm package.json
 
 ### Usage
-* `git clone git@github.com:Anitha-Venkatesan/note-take.git`
+* `git clone git@github.com:Anitha-Venkatesan/note-taker.git`
 * `cd note-taker`
 * Open app.js in Command Line Terminal using the command `node app.js`
 
