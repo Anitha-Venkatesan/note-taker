@@ -9,12 +9,13 @@
 
 ### Installation
 Steps to install the node npm packages
-* npm i
+* `npm i`
 
 ### Dependencies
 * express
 * lodash
 * fs
+
 Note: They already included in npm package.json
 
 ### Usage
@@ -22,7 +23,11 @@ Note: They already included in npm package.json
 * `cd note-taker`
 * Open app.js in Command Line Terminal using the command `node app.js`
 
+### Demo
+* [Demo](https://afternoon-stream-55803.herokuapp.com/)
+
 ### Screenshots
+![Demo](demo/notes-demo.gif)
 ### References
 * https://expressjs.com/en/4x/api.html#app
 * https://lodash.com/docs/4.17.15
